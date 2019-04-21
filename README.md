@@ -1,7 +1,5 @@
 *斜体1*	
-_斜体2_	
-**粗体1**
-__粗体2__	
+**粗体1**	
 ***斜粗体1***	
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 ![][foryou]
@@ -15,4 +13,6 @@ __粗体2__
 
 
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+I :gift_heart: You 王雪纯
+
 [回到顶部](#readme)
